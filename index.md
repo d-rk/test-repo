@@ -1,6 +1,7 @@
----
-layout: default
----
+* TOC
+{:toc}
+
+done
 
 main page with include
 
