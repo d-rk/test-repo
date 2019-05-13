@@ -1,9 +1,9 @@
 * TOC
 {:toc}
 
-done
+# repo chapter
 
-main page with include
+blabla
 
 {% include_relative docs/helm.md %}
 {% include_relative docs/helm_completion.md %}
